@@ -79,6 +79,7 @@ _🌟 most interesting_
 * **[Swift UI by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Catalyst by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
+* **[SwiftUI by Example - Book](https://gumroad.com/l/swiftui)** _(Available NOW!)_ by [Hacking with Swift](https://twitter.com/twostraws)
 
 #### 🎓 Courses
 * **[Learn SwiftUI](https://learn.designcode.io/swiftui)**. by [Meng To](https://twitter.com/mengto)
@@ -126,7 +127,7 @@ _🌟 most interesting_
 * **[SwiftUI, personal thoughts and Model-View-Presenter](https://www.dcordero.me/posts/swiftui_personal_thoughts_and_mvp.html)** by [David Cordero](https://www.dcordero.me)
 * **[Cloning Tinder using SwiftUI](https://medium.com/@davidgrdoll/cloning-tinder-swiftui-29faed752be6)** by [David Doll](https://twitter.com/davidgdoll)
 * **[SwiftUI: Project migration from UIKit](https://nikrodionov.com/project-migration-to-swiftui/)** by [Nik Rodionov](https://twitter.com/n_rodionov)
-
+* **[Mastering Table Views (Lists) in SwiftUI](https://www.blckbirds.com/post/swiftui-mastering-table-views-lists-1)** by [BLACKBIRDS](https://www.instagram.com/_blckbirds/?hl=de)
 
 #### 📦 Repositories
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
@@ -170,11 +171,13 @@ _🌟 most interesting_
 * **[AniTime](https://github.com/PangMo5/AniTime)**. Anime schedule, korean subtitle for iOS with SwiftUI + Combine and MVVM architecture
 * **[Fluxus](https://github.com/johnsusek/fluxus)**. Flux for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
-* **[Weather](https://github.com/niazoff/Weather)**. A simple SwiftUI weather app using MVVM.
+* **[Weather](https://github.com/niazoff/Weather)**. 🌤 A simple SwiftUI weather app using MVVM.
+* **[Chat](https://github.com/niazoff/Chat)**. 💬 A basic SwiftUI chat app that leverages the new `URLSessionWebSocketTask`.
 * **[toBlockingArray for Combine](https://gist.github.com/jrsonline/dd9799929e1aceb5d99e83fc6ac2b43b)**. Acts like RxBlocking, for writing tests using the Combine framework.
 * **[ImageWithActivityIndicator](https://github.com/AliAdam/ImageWithActivityIndicator)**. SwiftUI view that download and display image from URL and displaying Activity Indicator while loading. [Demo](https://github.com/AliAdam/ImageWithActivityIndicatorDemo) 
 * **[🌯🌯 Burritos](https://github.com/guillermomuntaner/Burritos)**. A collection of Swift Property Wrappers (formerly "Property Delegates").
 * **[Hackery](https://github.com/timshim/Hackery/tree/master)** A HackerNews client made using SwiftUI.
+* **[SwiftUI-Redux-Todo Example](https://github.com/moflo/SwiftUI-Todo-Redux)** An opinionated React/Redux inspired Todo example.
 
 #### 🖥 Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
@@ -202,6 +205,7 @@ _🌟 most interesting_
 * **🇪🇸 [SwiftUI + Xcode 11: Descubre Swift Package Manager y SF Symbols](https://youtu.be/93YBmQNp_sQ)**
 * **[SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)**
 * **[SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)**
+* **[Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)**
 
 #### 🔗 Websites
 * **[SwiftUI Hub - SwiftUI Tutorials & Resources](https://swiftuihub.com)**
